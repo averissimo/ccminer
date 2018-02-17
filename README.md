@@ -1,3 +1,11 @@
+# ccminer with Allium
+
+This branch should support older nvidia cards. It is working for my GTS 450 *(not very fast though, at ~94 kH/s)*
+
+If you want to send some garlic, here is my address
+
+GRAnJ5sZJjZQrdxPJCSFoycdiYTTLCB7be
+
 # ccminer
 
 Based on Christian Buchner's &amp; Christian H.'s CUDA project, no more active on github since 2014.
